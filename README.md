@@ -1,2 +1,2 @@
 # Ricardo-Miranda-Proyecto
-Actividades fantasticas de mi curso con el profe omar, las cuales nunca voy a olvidar.
+Actividades fantasticas de mi curso con el profe omar, las cuales nunca voy a olvidar. Esta semana tec hicimos tres actividades, la primera empezamos creando el repositorio con las ramas en main y lo pusimos en archivio read.md y creamos nuestras carpetas para las actividades, en la actividad 2 hicimos un programa en cual subimos una foto de intenet y la modificamos con diferentes filtros y de tarea lo repetimos con mas filtros por 5 veces mas y la ultima actividad fue sobre unos emojis la cual fue dificil pero se logro.
